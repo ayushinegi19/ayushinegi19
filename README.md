@@ -8,8 +8,7 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Mumbai,_India-4c1d95?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Final_Year_B.E._Computer_Engineering-6D28D9?style=flat-square)
+**Location:** Mumbai, India &nbsp;|&nbsp; **Status:** Final Year B.E. Computer Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushinegi)
 [![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiayushij@gmail.com)
@@ -35,37 +34,30 @@ I independently designed, built, and maintain **IGKA**, a live full-stack manage
 ### Tech Stack
 
 **Web Development**
-![HTML](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-4c1d95?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6D28D9?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4c1d95?style=flat-square&logo=tailwindcss&logoColor=white)
+
+![Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark)
 
 **Backend Systems**
-![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4c1d95?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-6D28D9?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-4c1d95?style=flat-square&logo=flask&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+![Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask&theme=dark)
+
+`JWT Authentication`
 
 **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-4c1d95?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-6D28D9?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4c1d95?style=flat-square&logo=mysql&logoColor=white)
+
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark)
+
+`Supabase` &nbsp; `Neon`
 
 **Testing**
-![Automated Testing](https://img.shields.io/badge/Automated_Test_Scripts-8B5CF6?style=flat-square&logo=checkmarx&logoColor=white)
+
+`Automated Test Scripts (Node.js)`
 
 **Cloud, Hosting & Tooling**
-![Vercel](https://img.shields.io/badge/Vercel-6D28D9?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-4c1d95?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-4c1d95?style=flat-square&logo=swagger&logoColor=white)
+
+![Skills](https://skillicons.dev/icons?i=vercel,git,github&theme=dark)
+
+`Render` &nbsp; `Swagger`
 
 ---
 
@@ -151,13 +143,9 @@ Produced scripts and platform-formatted content for company channels under recur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushinegi19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" width="420" alt="GitHub Stats" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=ayushinegi19&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8B5CF6&ring=6D28D9&fire=8B5CF6&currStreakLabel=8B5CF6" width="420" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushinegi19&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" width="420" alt="Top Languages" />
 
