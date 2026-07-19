@@ -8,8 +8,8 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍-Mumbai,_India-4c1d95?style=flat-square)
-![Status](https://img.shields.io/badge/🎓-Final_Year_B.E._Computer_Engineering-6D28D9?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Mumbai,_India-4c1d95?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Final_Year_B.E._Computer_Engineering-6D28D9?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushinegi)
 [![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiayushij@gmail.com)
@@ -24,46 +24,71 @@
 
 ### About Me
 
-I'm a final-year Computer Engineering student who builds full-stack systems end to end — from gathering requirements with a real client through to production deployment and maintenance. My flagship project, **VaultKey**, implements envelope encryption, fail-closed RBAC, and audit logging in a backend secrets manager — I care about building systems that are secure by design, not just functional.
+I'm a final-year Computer Engineering student who builds full-stack systems end to end — from gathering requirements with a real client through to production deployment and maintenance.
 
-Outside of that, I've independently designed, built, and now maintain **IGKA**, a full-stack management system for a real institute client, handling everything from CORS and JWT debugging to ongoing feature requests.
+I independently designed, built, and maintain **IGKA**, a live full-stack management system for a real institute client. My flagship technical project, **VaultKey**, implements envelope encryption, fail-closed RBAC, and audit logging in a backend secrets manager — I care about building systems that are secure by design, not just functional.
 
-**Currently focused on:** deepening data structures & algorithms, and strengthening backend system design.
+**Currently focused on:** deepening data structures & algorithms and backend system design for upcoming placements.
 
 ---
 
 ### Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
+**Web Development**
+![HTML](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-4c1d95?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-8B5CF6?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6D28D9?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4c1d95?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-4c1d95?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-8B5CF6?style=flat-square&logo=tailwindcss&logoColor=white)
+**Backend Systems**
+![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4c1d95?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6D28D9?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4c1d95?style=flat-square&logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-4c1d95?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-8B5CF6?style=flat-square&logo=flask&logoColor=white)
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-4c1d95?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-8B5CF6?style=flat-square&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-8B5CF6?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6D28D9?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4c1d95?style=flat-square&logo=mysql&logoColor=white)
 
-**Cloud & Tooling**
+**Testing**
+![Automated Testing](https://img.shields.io/badge/Automated_Test_Scripts-8B5CF6?style=flat-square&logo=checkmarx&logoColor=white)
+
+**Cloud, Hosting & Tooling**
 ![Vercel](https://img.shields.io/badge/Vercel-6D28D9?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-4c1d95?style=flat-square&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-6D28D9?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-4c1d95?style=flat-square&logo=swagger&logoColor=white)
 
 ---
 
 ### Featured Projects
 
 <details open>
-<summary><b>🔐 VaultKey — Secrets Management System</b></summary>
+<summary><b>IGKA — Karate Institute Management System</b></summary>
+<br/>
+
+Full-stack management system independently designed and built for a real institute client — from requirement gathering through phased delivery to launch.
+
+| | |
+|---|---|
+| **Stack** | React/Vite (Vercel), Node.js/Express (Render), Supabase |
+| **Scope** | Authentication, role-based permissions, CRUD across students, events, galleries, and announcements |
+| **Ownership** | Full client relationship — feedback cycles, deployment, and independent production debugging (CORS, JWT, environment config, route ordering) |
+
+[Live Site](https://igka.vercel.app) — Repository private (active client project); happy to walk through the architecture directly
+
+</details>
+
+<details>
+<summary><b>VaultKey — Secrets Management System</b></summary>
 <br/>
 
 Backend secrets manager built to explore secure-by-design system architecture.
@@ -75,30 +100,27 @@ Backend secrets manager built to explore secure-by-design system architecture.
 | **Scope** | 6 REST API endpoints — identity, auth, secret storage/retrieval, policy management, audit access |
 | **Verification** | Automated test suite covering login, encryption, access control, and audit logging |
 
-Every secret is encrypted with its own data key, which is itself encrypted by a master key. Access policies map (role, resource, action) to allow/deny, with no matching policy defaulting to deny — access is denied unless explicitly permitted.
+Every secret is encrypted with its own data key, which is itself encrypted by a master key. Access policies map (role, resource, action) to allow/deny, with no matching policy defaulting to deny.
 
-🔗 [Repository](https://github.com/ayushinegi19/VAULTKEY)
+[Live Site](https://vaultkey-neon.vercel.app/) — [Repository](https://github.com/ayushinegi19/VAULTKEY)
 
 </details>
 
 <details>
-<summary><b>🥋 IGKA — Karate Institute Management System</b></summary>
+<summary><b>PulseFeed — Personalized News Aggregator</b></summary>
 <br/>
-
-Full-stack management system independently designed and built for a real institute client — from requirement gathering through phased delivery to launch.
 
 | | |
 |---|---|
-| **Stack** | React/Vite (Vercel), Node.js/Express (Render), Supabase |
-| **Scope** | Authentication, role-based permissions, CRUD across students, events, galleries, and announcements |
-| **Ownership** | Full client relationship — feedback cycles, deployment, and independent production debugging (CORS, JWT, environment config, route ordering) |
+| **Stack** | Flask backend, category-based filtering |
+| **Features** | Article recommendation, bookmarking, infinite scroll, responsive layout |
 
-*This repository is private (active client project). Happy to walk through the architecture directly — reach out via email or LinkedIn.*
+[Live Site](https://pulsefeed-2mqq.onrender.com/) — [Repository](https://github.com/ayushinegi19/PULSEFEED)
 
 </details>
 
 <details>
-<summary><b>📚 Prepify — AI-Powered Study Material Generator</b></summary>
+<summary><b>Prepify — AI-Powered Study Material Generator</b></summary>
 <br/>
 
 | | |
@@ -107,20 +129,7 @@ Full-stack management system independently designed and built for a real institu
 | **AI/NLP** | spaCy, KeyBERT, Sentence Transformers for automated content structuring |
 | **Reliability** | API fallback handling to maintain uptime during model/API failures |
 
-🔗 [Repository](https://github.com/ayushinegi19/PREPIFY)
-
-</details>
-
-<details>
-<summary><b>📰 PulseFeed — Personalized News Aggregator</b></summary>
-<br/>
-
-| | |
-|---|---|
-| **Stack** | Flask backend, category-based filtering |
-| **Features** | Article recommendation, bookmarking, infinite scroll, responsive layout |
-
-🔗 [Repository](https://github.com/ayushinegi19/PULSEFEED)
+[Repository](https://github.com/ayushinegi19/PREPIFY)
 
 </details>
 
@@ -142,10 +151,15 @@ Produced scripts and platform-formatted content for company channels under recur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushinegi19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushinegi19&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8B5CF6&ring=6D28D9&fire=8B5CF6&currStreakLabel=8B5CF6" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushinegi19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" width="420" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushinegi19&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" width="48%" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ayushinegi19&theme=tokyonight&hide_border=true&background=1a1b27&stroke=8B5CF6&ring=6D28D9&fire=8B5CF6&currStreakLabel=8B5CF6" width="420" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushinegi19&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" width="420" alt="Top Languages" />
 
 </div>
 
@@ -155,7 +169,7 @@ Produced scripts and platform-formatted content for company channels under recur
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushinegi19&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=6D28D9&point=c9d1d9" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushinegi19&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=6D28D9&point=c9d1d9" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -164,10 +178,11 @@ Produced scripts and platform-formatted content for company channels under recur
 ### Current Focus
 
 ```yaml
-Learning: Data Structures & Algorithms, System Design fundamentals
-Building: Deeper security-focused backend systems
-Exploring: Full-stack architecture patterns for production reliability
-Open To: Software Engineering internships and full-time roles
+Sharpening:   Data Structures & Algorithms (arrays, trees, graphs, binary search)
+Deepening:    Backend system design - auth, RBAC, encryption, audit logging
+Maintaining:  IGKA in production - client feature requests, deployment, bug fixes
+Exploring:    Database design tradeoffs across PostgreSQL, Supabase & MongoDB
+Open To:      Software Engineering internships and full-time roles
 ```
 
 ---
