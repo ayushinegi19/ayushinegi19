@@ -3,65 +3,65 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4c1d95&height=200&section=header&text=Ayushi%20Negi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Security-Focused%20Backend%20Engineer&descAlignY=55&descSize=18)
 
 <a href="https://github.com/ayushinegi19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Building+Production+Systems+for+Real+Clients;Security+%26+Backend+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Engineer;Building+Secure+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**Location:** Mumbai, India &nbsp;|&nbsp; **Status:** Final Year B.E. Computer Engineering
+**Mumbai, India** &nbsp;|&nbsp; **Final Year, B.E. Computer Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushinegi)
 [![Email](https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:negiayushij@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushinegi19)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushinegi19&color=8B5CF6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ayushinegi19?style=flat-square&color=6D28D9&label=Followers)
-
 </div>
 
 ---
 
-### About Me
+### 👩‍💻 About Me
 
-I'm a final-year Computer Engineering student who builds full-stack systems end to end — from gathering requirements with a real client through to production deployment and maintenance.
+I build secure backend systems and production-ready web applications, with a focus on architecture, authentication, and deployment.
 
-I independently designed, built, and maintain **IGKA**, a live full-stack management system for a real institute client. My flagship technical project, **VaultKey**, implements envelope encryption, fail-closed RBAC, and audit logging in a backend secrets manager — I care about building systems that are secure by design, not just functional.
-
-**Currently focused on:** deepening data structures & algorithms and backend system design for upcoming placements.
+My most significant project is **IGKA**, a management platform for a real institute client, where I handled the complete lifecycle — requirements, deployment, and ongoing maintenance. My flagship technical project, **VaultKey**, explores backend security in depth: envelope encryption, RBAC, and audit logging.
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-**Web Development**
+**Languages**
+
+![Skills](https://skillicons.dev/icons?i=java,python,js&theme=dark)
+
+**Frontend**
 
 ![Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark)
 
-**Backend Systems**
+**Backend**
 
-![Skills](https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask&theme=dark)
-
-`JWT Authentication`
+![Skills](https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark) &nbsp; `JWT Authentication`
 
 **Databases**
 
-![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark)
+![Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark) &nbsp; `Supabase` &nbsp; `Neon`
 
-`Supabase` &nbsp; `Neon`
+**Cloud & Tools**
 
-**Testing**
-
-`Automated Test Scripts (Node.js)`
-
-**Cloud, Hosting & Tooling**
-
-![Skills](https://skillicons.dev/icons?i=vercel,git,github&theme=dark)
-
-`Render` &nbsp; `Swagger`
+![Skills](https://skillicons.dev/icons?i=vercel,git,github&theme=dark) &nbsp; `Render` &nbsp; `Swagger`
 
 ---
 
-### Featured Projects
+### 💡 What I Bring
+
+✔ Production deployment experience
+✔ Direct client communication and requirement gathering
+✔ Backend architecture & API design
+✔ Authentication & role-based access control
+✔ Database design across relational and NoSQL systems
+✔ Security-first engineering mindset
+
+---
+
+### 🚀 Featured Projects
 
 <details open>
 <summary><b>IGKA — Karate Institute Management System</b></summary>
@@ -73,9 +73,9 @@ Full-stack management system independently designed and built for a real institu
 |---|---|
 | **Stack** | React/Vite (Vercel), Node.js/Express (Render), Supabase |
 | **Scope** | Authentication, role-based permissions, CRUD across students, events, galleries, and announcements |
-| **Ownership** | Full client relationship — feedback cycles, deployment, and independent production debugging (CORS, JWT, environment config, route ordering) |
+| **Ownership** | Full client relationship — feedback cycles, deployment, independent production debugging |
 
-[Live Site](https://igka.vercel.app) — Repository private (active client project); happy to walk through the architecture directly
+**[Live Site →](https://igka.vercel.app)** &nbsp; · &nbsp; *Repository private (active client project)*
 
 </details>
 
@@ -83,18 +83,17 @@ Full-stack management system independently designed and built for a real institu
 <summary><b>VaultKey — Secrets Management System</b></summary>
 <br/>
 
-Backend secrets manager built to explore secure-by-design system architecture.
+Backend secrets manager exploring secure-by-design system architecture.
 
 | | |
 |---|---|
 | **Stack** | Node.js, Express, raw PostgreSQL (no ORM) |
 | **Security** | AES-256-GCM envelope encryption, fail-closed RBAC, append-only audit logging |
 | **Scope** | 6 REST API endpoints — identity, auth, secret storage/retrieval, policy management, audit access |
-| **Verification** | Automated test suite covering login, encryption, access control, and audit logging |
 
-Every secret is encrypted with its own data key, which is itself encrypted by a master key. Access policies map (role, resource, action) to allow/deny, with no matching policy defaulting to deny.
+Designed a fail-closed RBAC system that defaults to deny unless a policy explicitly permits access — every secret is encrypted with its own data key, itself encrypted by a master key. Verified end-to-end with an automated test suite.
 
-[Live Site](https://vaultkey-neon.vercel.app/) — [Repository](https://github.com/ayushinegi19/VAULTKEY)
+**[Live Site →](https://vaultkey-neon.vercel.app/)** &nbsp; · &nbsp; **[Repository →](https://github.com/ayushinegi19/VAULTKEY)**
 
 </details>
 
@@ -107,7 +106,7 @@ Every secret is encrypted with its own data key, which is itself encrypted by a 
 | **Stack** | Flask backend, category-based filtering |
 | **Features** | Article recommendation, bookmarking, infinite scroll, responsive layout |
 
-[Live Site](https://pulsefeed-2mqq.onrender.com/) — [Repository](https://github.com/ayushinegi19/PULSEFEED)
+**[Live Site →](https://pulsefeed-2mqq.onrender.com/)** &nbsp; · &nbsp; **[Repository →](https://github.com/ayushinegi19/PULSEFEED)**
 
 </details>
 
@@ -121,25 +120,29 @@ Every secret is encrypted with its own data key, which is itself encrypted by a 
 | **AI/NLP** | spaCy, KeyBERT, Sentence Transformers for automated content structuring |
 | **Reliability** | API fallback handling to maintain uptime during model/API failures |
 
-[Repository](https://github.com/ayushinegi19/PREPIFY)
+**[Repository →](https://github.com/ayushinegi19/PREPIFY)**
 
 </details>
 
 ---
 
-### Experience
+### 💼 Experience
 
 **Independent Developer** — IGKA (Karate Institute Client) · *Apr 2026 – Present*
-Volunteered to design, build, and deploy a full-stack system for a real client, owning the relationship end to end — requirements, delivery, and ongoing production maintenance.
-`React` `Node.js` `Supabase` `Client Communication`
+
+- Gathered requirements and scoped features directly with the client
+- Designed the database schema and built REST APIs (Node.js/Express, Supabase)
+- Deployed the production application (Vercel + Render)
+- Debugged and resolved production issues independently (CORS, JWT, environment config, routing)
+- Maintain the application on an ongoing basis — feature requests, updates, fixes
 
 **Software and Media Intern** — Anvitech Services LLC · *Apr 2026 – May 2026*
-Produced scripts and platform-formatted content for company channels under recurring deadlines.
-`Content Production` `Deadline Management`
+
+- Produced scripts and platform-formatted content for company channels under recurring deadlines
 
 ---
 
-### GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -147,37 +150,27 @@ Produced scripts and platform-formatted content for company channels under recur
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushinegi19&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9" width="420" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushinegi19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=6D28D9&text_color=c9d1d9" width="420" alt="GitHub Stats" />
 
 </div>
 
 ---
 
-### Contribution Activity
+### 🎯 Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushinegi19&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=6D28D9&point=c9d1d9" width="95%" alt="Contribution Graph" />
-
-</div>
-
----
-
-### Current Focus
-
-```yaml
-Sharpening:   Data Structures & Algorithms (arrays, trees, graphs, binary search)
-Deepening:    Backend system design - auth, RBAC, encryption, audit logging
-Maintaining:  IGKA in production - client feature requests, deployment, bug fixes
-Exploring:    Database design tradeoffs across PostgreSQL, Supabase & MongoDB
-Open To:      Software Engineering internships and full-time roles
-```
+| Focus | Currently |
+|---|---|
+| Learning | Data Structures & Algorithms |
+| Building | Deeper backend security systems |
+| Maintaining | IGKA in production |
+| Exploring | Database design tradeoffs (SQL vs NoSQL) |
+| Open To | Software Engineering internships & full-time roles |
 
 ---
 
 <div align="center">
 
-*"Build it, break it, understand why, fix it properly."*
+*Build. Break. Learn. Repeat.*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:1e1b4b&height=100&section=footer)
 
